@@ -1,6 +1,6 @@
 import React from 'react';
-import Noticia from './Noticia';
-import PropTypes from 'prop-types'
+import Noticia from './Noticias';
+
 
 const ListadoNoticias = ({noticias}) =>  ( 
         <div className="row">
@@ -12,3 +12,4 @@ const ListadoNoticias = ({noticias}) =>  (
             ))}
         </div>
 );
+export default ListadoNoticias;

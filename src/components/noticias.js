@@ -27,8 +27,8 @@ const Noticia = ({noticia}) => {
                         href={url}
                         target="_blank"
                         rel="noopener noreferrer"
-                        className="waves-effect waves-light btn"
-                    >Ver Noticia Completa</a>
+                        className="blue darken -2 btn"
+                    >Ver más </a>
                 </div>
             </div>
         </div>

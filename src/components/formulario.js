@@ -38,7 +38,7 @@ const Formulario = ({guardarCategoria}) => {
                     <div className="input-field col s12">
                         <input 
                             type="submit" 
-                            className={`${styles['btn-block']}  btn-large amber darken-2`}
+                            className={`${styles['btn-block']}  btn-large blue darken-2`}
                             value="Buscar"
                         />
                     </div>
